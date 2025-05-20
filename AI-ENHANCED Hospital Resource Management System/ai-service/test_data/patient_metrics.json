@@ -1,0 +1,182 @@
+[
+  {
+    "date": "2025-03-23",
+    "readmission_rate": 8.6,
+    "length_of_stay": 4.2,
+    "medication_errors": 2.1
+  },
+  {
+    "date": "2025-03-24",
+    "readmission_rate": 8.3,
+    "length_of_stay": 4.1,
+    "medication_errors": 2.1
+  },
+  {
+    "date": "2025-03-25",
+    "readmission_rate": 8.0,
+    "length_of_stay": 3.9,
+    "medication_errors": 2.0
+  },
+  {
+    "date": "2025-03-26",
+    "readmission_rate": 8.1,
+    "length_of_stay": 4.0,
+    "medication_errors": 2.0
+  },
+  {
+    "date": "2025-03-27",
+    "readmission_rate": 8.2,
+    "length_of_stay": 4.1,
+    "medication_errors": 2.0
+  },
+  {
+    "date": "2025-03-28",
+    "readmission_rate": 8.4,
+    "length_of_stay": 4.1,
+    "medication_errors": 2.1
+  },
+  {
+    "date": "2025-03-29",
+    "readmission_rate": 8.9,
+    "length_of_stay": 4.4,
+    "medication_errors": 2.2
+  },
+  {
+    "date": "2025-03-30",
+    "readmission_rate": 8.4,
+    "length_of_stay": 4.1,
+    "medication_errors": 2.1
+  },
+  {
+    "date": "2025-03-31",
+    "readmission_rate": 8.2,
+    "length_of_stay": 4.0,
+    "medication_errors": 2.0
+  },
+  {
+    "date": "2025-04-01",
+    "readmission_rate": 7.9,
+    "length_of_stay": 3.9,
+    "medication_errors": 2.0
+  },
+  {
+    "date": "2025-04-02",
+    "readmission_rate": 9.1,
+    "length_of_stay": 4.5,
+    "medication_errors": 2.3
+  },
+  {
+    "date": "2025-04-03",
+    "readmission_rate": 8.6,
+    "length_of_stay": 4.2,
+    "medication_errors": 2.1
+  },
+  {
+    "date": "2025-04-04",
+    "readmission_rate": 8.4,
+    "length_of_stay": 4.2,
+    "medication_errors": 2.1
+  },
+  {
+    "date": "2025-04-05",
+    "readmission_rate": 8.0,
+    "length_of_stay": 4.0,
+    "medication_errors": 2.0
+  },
+  {
+    "date": "2025-04-06",
+    "readmission_rate": 8.4,
+    "length_of_stay": 4.2,
+    "medication_errors": 2.1
+  },
+  {
+    "date": "2025-04-07",
+    "readmission_rate": 9.3,
+    "length_of_stay": 4.6,
+    "medication_errors": 2.3
+  },
+  {
+    "date": "2025-04-08",
+    "readmission_rate": 10.3,
+    "length_of_stay": 5.1,
+    "medication_errors": 2.5
+  },
+  {
+    "date": "2025-04-09",
+    "readmission_rate": 10.5,
+    "length_of_stay": 5.2,
+    "medication_errors": 2.6
+  },
+  {
+    "date": "2025-04-10",
+    "readmission_rate": 12.5,
+    "length_of_stay": 6.2,
+    "medication_errors": 3.1
+  },
+  {
+    "date": "2025-04-11",
+    "readmission_rate": 12.6,
+    "length_of_stay": 6.2,
+    "medication_errors": 3.1
+  },
+  {
+    "date": "2025-04-12",
+    "readmission_rate": 14.6,
+    "length_of_stay": 7.2,
+    "medication_errors": 3.6
+  },
+  {
+    "date": "2025-04-13",
+    "readmission_rate": 7.8,
+    "length_of_stay": 3.9,
+    "medication_errors": 1.9
+  },
+  {
+    "date": "2025-04-14",
+    "readmission_rate": 7.8,
+    "length_of_stay": 3.9,
+    "medication_errors": 1.9
+  },
+  {
+    "date": "2025-04-15",
+    "readmission_rate": 8.0,
+    "length_of_stay": 3.9,
+    "medication_errors": 2.0
+  },
+  {
+    "date": "2025-04-16",
+    "readmission_rate": 8.4,
+    "length_of_stay": 4.1,
+    "medication_errors": 2.1
+  },
+  {
+    "date": "2025-04-17",
+    "readmission_rate": 8.9,
+    "length_of_stay": 4.4,
+    "medication_errors": 2.2
+  },
+  {
+    "date": "2025-04-18",
+    "readmission_rate": 8.6,
+    "length_of_stay": 4.2,
+    "medication_errors": 2.1
+  },
+  {
+    "date": "2025-04-19",
+    "readmission_rate": 7.8,
+    "length_of_stay": 3.9,
+    "medication_errors": 1.9
+  },
+  {
+    "date": "2025-04-20",
+    "readmission_rate": 8.2,
+    "length_of_stay": 4.0,
+    "medication_errors": 2.0
+  },
+  {
+    "date": "2025-04-21",
+    "readmission_rate": 8.6,
+    "length_of_stay": 4.3,
+    "medication_errors": 2.1
+  }
+]

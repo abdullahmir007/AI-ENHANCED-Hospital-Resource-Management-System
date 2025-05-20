@@ -1,0 +1,22 @@
+[
+  {
+    "type": "Physician",
+    "total": 34,
+    "onDuty": 21
+  },
+  {
+    "type": "Nurse",
+    "total": 74,
+    "onDuty": 58
+  },
+  {
+    "type": "Technician",
+    "total": 16,
+    "onDuty": 12
+  },
+  {
+    "type": "Admin",
+    "total": 20,
+    "onDuty": 17
+  }
+]

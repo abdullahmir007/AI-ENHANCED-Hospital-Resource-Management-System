@@ -1,0 +1,182 @@
+[
+    {
+      "date": "2025-03-23",
+      "bed_occupancy": 68.1,
+      "staff_utilization": 72.7,
+      "equipment_usage": 59.0
+    },
+    {
+      "date": "2025-03-24",
+      "bed_occupancy": 80.4,
+      "staff_utilization": 85.8,
+      "equipment_usage": 69.7
+    },
+    {
+      "date": "2025-03-25",
+      "bed_occupancy": 78.5,
+      "staff_utilization": 83.7,
+      "equipment_usage": 68.0
+    },
+    {
+      "date": "2025-03-26",
+      "bed_occupancy": 75.0,
+      "staff_utilization": 80.0,
+      "equipment_usage": 65.0
+    },
+    {
+      "date": "2025-03-27",
+      "bed_occupancy": 76.6,
+      "staff_utilization": 81.7,
+      "equipment_usage": 66.4
+    },
+    {
+      "date": "2025-03-28",
+      "bed_occupancy": 77.2,
+      "staff_utilization": 82.3,
+      "equipment_usage": 66.9
+    },
+    {
+      "date": "2025-03-29",
+      "bed_occupancy": 66.6,
+      "staff_utilization": 71.0,
+      "equipment_usage": 57.7
+    },
+    {
+      "date": "2025-03-30",
+      "bed_occupancy": 68.2,
+      "staff_utilization": 72.7,
+      "equipment_usage": 59.1
+    },
+    {
+      "date": "2025-03-31",
+      "bed_occupancy": 76.8,
+      "staff_utilization": 81.9,
+      "equipment_usage": 66.5
+    },
+    {
+      "date": "2025-04-01",
+      "bed_occupancy": 76.3,
+      "staff_utilization": 81.4,
+      "equipment_usage": 66.1
+    },
+    {
+      "date": "2025-04-02",
+      "bed_occupancy": 76.7,
+      "staff_utilization": 81.8,
+      "equipment_usage": 66.5
+    },
+    {
+      "date": "2025-04-03",
+      "bed_occupancy": 75.3,
+      "staff_utilization": 80.3,
+      "equipment_usage": 65.2
+    },
+    {
+      "date": "2025-04-04",
+      "bed_occupancy": 76.9,
+      "staff_utilization": 82.0,
+      "equipment_usage": 66.7
+    },
+    {
+      "date": "2025-04-05",
+      "bed_occupancy": 65.6,
+      "staff_utilization": 70.0,
+      "equipment_usage": 56.9
+    },
+    {
+      "date": "2025-04-06",
+      "bed_occupancy": 64.6,
+      "staff_utilization": 68.9,
+      "equipment_usage": 56.0
+    },
+    {
+      "date": "2025-04-07",
+      "bed_occupancy": 77.3,
+      "staff_utilization": 82.5,
+      "equipment_usage": 67.0
+    },
+    {
+      "date": "2025-04-08",
+      "bed_occupancy": 80.7,
+      "staff_utilization": 86.1,
+      "equipment_usage": 69.9
+    },
+    {
+      "date": "2025-04-09",
+      "bed_occupancy": 75.8,
+      "staff_utilization": 80.8,
+      "equipment_usage": 65.7
+    },
+    {
+      "date": "2025-04-10",
+      "bed_occupancy": 80.4,
+      "staff_utilization": 85.7,
+      "equipment_usage": 69.6
+    },
+    {
+      "date": "2025-04-11",
+      "bed_occupancy": 81.1,
+      "staff_utilization": 86.5,
+      "equipment_usage": 70.3
+    },
+    {
+      "date": "2025-04-12",
+      "bed_occupancy": 70.5,
+      "staff_utilization": 75.2,
+      "equipment_usage": 61.1
+    },
+    {
+      "date": "2025-04-13",
+      "bed_occupancy": 67.6,
+      "staff_utilization": 72.1,
+      "equipment_usage": 58.6
+    },
+    {
+      "date": "2025-04-14",
+      "bed_occupancy": 79.4,
+      "staff_utilization": 84.7,
+      "equipment_usage": 68.8
+    },
+    {
+      "date": "2025-04-15",
+      "bed_occupancy": 85.5,
+      "staff_utilization": 91.2,
+      "equipment_usage": 74.1
+    },
+    {
+      "date": "2025-04-16",
+      "bed_occupancy": 87.4,
+      "staff_utilization": 93.2,
+      "equipment_usage": 75.7
+    },
+    {
+      "date": "2025-04-17",
+      "bed_occupancy": 87.6,
+      "staff_utilization": 93.5,
+      "equipment_usage": 75.9
+    },
+    {
+      "date": "2025-04-18",
+      "bed_occupancy": 99.2,
+      "staff_utilization": 105.8,
+      "equipment_usage": 86.0
+    },
+    {
+      "date": "2025-04-19",
+      "bed_occupancy": 87.9,
+      "staff_utilization": 93.8,
+      "equipment_usage": 76.2
+    },
+    {
+      "date": "2025-04-20",
+      "bed_occupancy": 90.7,
+      "staff_utilization": 96.7,
+      "equipment_usage": 78.6
+    },
+    {
+      "date": "2025-04-21",
+      "bed_occupancy": 102.0,
+      "staff_utilization": 108.8,
+      "equipment_usage": 88.4
+    }
+  ]

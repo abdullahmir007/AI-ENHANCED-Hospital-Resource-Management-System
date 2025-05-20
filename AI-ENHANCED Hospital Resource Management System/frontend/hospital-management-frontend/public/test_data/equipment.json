@@ -1,0 +1,44 @@
+[
+    {
+      "category": "Ventilators",
+      "total": 18,
+      "inUse": 14,
+      "available": 4,
+      "maintenance": 0
+    },
+    {
+      "category": "MRI",
+      "total": 3,
+      "inUse": 2,
+      "available": 1,
+      "maintenance": 0
+    },
+    {
+      "category": "X-ray",
+      "total": 18,
+      "inUse": 12,
+      "available": 5,
+      "maintenance": 1
+    },
+    {
+      "category": "CT Scan",
+      "total": 5,
+      "inUse": 3,
+      "available": 2,
+      "maintenance": 0
+    },
+    {
+      "category": "Ultrasound",
+      "total": 9,
+      "inUse": 5,
+      "available": 3,
+      "maintenance": 1
+    },
+    {
+      "category": "Monitoring",
+      "total": 33,
+      "inUse": 24,
+      "available": 5,
+      "maintenance": 4
+    }
+  ]

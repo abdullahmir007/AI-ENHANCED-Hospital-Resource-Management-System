@@ -1,0 +1,38 @@
+[
+    {
+      "ward": "ICU",
+      "total": 24,
+      "occupied": 20,
+      "available": 4
+    },
+    {
+      "ward": "ER",
+      "total": 12,
+      "occupied": 9,
+      "available": 3
+    },
+    {
+      "ward": "General",
+      "total": 41,
+      "occupied": 33,
+      "available": 8
+    },
+    {
+      "ward": "Pediatric",
+      "total": 18,
+      "occupied": 11,
+      "available": 7
+    },
+    {
+      "ward": "Maternity",
+      "total": 15,
+      "occupied": 9,
+      "available": 6
+    },
+    {
+      "ward": "Surgical",
+      "total": 23,
+      "occupied": 17,
+      "available": 6
+    }
+  ]
