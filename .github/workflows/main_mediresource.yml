@@ -44,10 +44,7 @@ jobs:
     environment:
       name: 'Production'
       url: ${{ steps.deploy-to-webapp.outputs.webapp-url }}
-    permissions:
-      id-token: write #This is required for requesting the JWT
-      contents: read #This is required for actions/checkout
-
+    
     steps:
       - name: Download artifact from build job
         uses: actions/download-artifact@v4
@@ -57,13 +54,6 @@ jobs:
       - name: Unzip artifact for deployment
         run: unzip release.zip
       
-      - name: Login to Azure
-        uses: azure/login@v2
-        with:
-          client-id: ${{ secrets.AZUREAPPSERVICE_CLIENTID_4EF7F2FB9F444E63A8049393C13C6B17 }}
-          tenant-id: ${{ secrets.AZUREAPPSERVICE_TENANTID_614A2C8A48244A188B2EA581A3471D6D }}
-          subscription-id: ${{ secrets.AZUREAPPSERVICE_SUBSCRIPTIONID_A785BB82B1D3469082B1C8B7D42F6280 }}
-
       - name: 'Deploy to Azure Web App'
         id: deploy-to-webapp
         uses: azure/webapps-deploy@v3
@@ -71,4 +61,4 @@ jobs:
           app-name: 'Mediresource'
           slot-name: 'Production'
           package: .
-          
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E95663DE22494AD58C99B2A888BE1703 }}
