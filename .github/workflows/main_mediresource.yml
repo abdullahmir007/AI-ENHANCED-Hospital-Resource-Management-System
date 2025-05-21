@@ -61,4 +61,4 @@ jobs:
           app-name: 'Mediresource'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E95663DE22494AD58C99B2A888BE1703 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EB12FDA92B88410793610E804BA45DD4 }}
