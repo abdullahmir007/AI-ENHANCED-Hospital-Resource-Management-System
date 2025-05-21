@@ -1,0 +1,14 @@
+{
+  "name": "ai-enhanced-hospital-system",
+  "private": true,
+  "workspaces": [
+    "frontend",
+    "backend"
+  ],
+  "scripts": {
+    "dev": "concurrently \"npm --prefix frontend start\" \"npm --prefix backend start\""
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.0"
+  }
+}
