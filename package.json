@@ -1,0 +1,20 @@
+{
+  "name": "ai-enhanced-hospital-system",
+  "private": true,
+  "version": "1.0.0",
+  "workspaces": [
+    "frontend",
+    "backend"
+  ],
+  "scripts": {
+    "build": "echo Building...",
+    "start": "echo Starting...",
+    "dev": "concurrently \"npm --prefix frontend start\" \"npm --prefix backend start\""
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.0"
+  },
+  "engines": {
+    "node": "22.x"
+  }
+}
